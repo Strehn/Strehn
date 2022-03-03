@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Strehn
+- 👀 I’m interested in videogames and cybersecurity
+- 🌱 I’m currently learning videogame development on unreal engine and python
